@@ -1,0 +1,2 @@
+Sageata buton Run -> Run configurations -> Arguments -> VM arguments:
+-Dsun.java2d.uiScale=1.0
